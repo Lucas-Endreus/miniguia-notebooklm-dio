@@ -65,8 +65,26 @@ Conteúdo sobre IA Generativa, Microsoft Copilot e Prompt Engineering.
 ---
 
 ## 4. Documentação NotebookLM
+# 📸 Capturas de Tela
+
+## NotebookLM
+
+![NotebookLM](images/notebooklm1.png)
+
+---
+
+## Fontes Utilizadas
+
+![Fontes](images/notebooklm2.png)
+
+---
+
+## Resumo Gerado
+
+![Resumo](images/notebooklm3.png)
 
 https://notebooklm.google/
+
 
 Ferramenta utilizada para organização dos estudos.
 
